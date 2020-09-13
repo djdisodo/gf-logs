@@ -1,0 +1,20 @@
+{
+  "settings": {
+    "playReplay": false,
+    "autoSupply": false,
+    "bulletTime": true,
+    "autoLock": true,
+    "illusLike": true,
+    "skillPerformance": false,
+    "gunBreakProtect": false,
+    "showBattleMessage": true,
+    "autoFairySkill": true,
+    "showCharacterLive2D": true,
+    "showBackgroundLive2D": true,
+    "simplifyBattle": false,
+    "vibrate": false,
+    "dormShowComment": true,
+    "characterLive2dAlwaysLogin": true,
+    "endTurnConfirmation": true
+  }
+}

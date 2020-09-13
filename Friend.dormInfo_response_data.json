@@ -1,0 +1,78 @@
+{
+  "info": {
+    "praise_num": 1055,
+    "visit_num": 1113,
+    "user_id": "1932586",
+    "dorm_id": "1"
+  },
+  "in_mydorm_list": [],
+  "my_visit_list": [],
+  "build_coin_flag": -4,
+  "current_build_coin": "400",
+  "establish_build_result": [
+    {
+      "furniture_id": "40101",
+      "build_coin": "600",
+      "gem": "600",
+      "establish_type": "102",
+      "pet_name": "2101",
+      "build_tmp_data": [
+        "40101",
+        "600",
+        "600",
+        "102",
+        "2101"
+      ]
+    },
+    {
+      "furniture_id": "40201",
+      "build_coin": "600",
+      "gem": "600",
+      "establish_type": "103",
+      "pet_name": "2201",
+      "build_tmp_data": [
+        "40201",
+        "600",
+        "600",
+        "103",
+        "2201"
+      ]
+    },
+    {
+      "furniture_id": "40401",
+      "build_coin": "600",
+      "gem": "600",
+      "establish_type": "104",
+      "pet_name": "3033",
+      "build_tmp_data": [
+        "40401",
+        "600",
+        "600",
+        "104",
+        "3033"
+      ]
+    },
+    {
+      "furniture_id": "40501",
+      "build_coin": "600",
+      "gem": "600",
+      "establish_type": "105",
+      "pet_name": "3044",
+      "build_tmp_data": [
+        "40501",
+        "600",
+        "600",
+        "105",
+        "3044"
+      ]
+    }
+  ],
+  "reset_build_coin_data": [],
+  "notice": {
+    "is_view_notice": "1",
+    "notice": "시험공부중"
+  },
+  "is_show_commander": "1",
+  "is_use_commander": "0",
+  "is_sangvis_show_gun": "0"
+}

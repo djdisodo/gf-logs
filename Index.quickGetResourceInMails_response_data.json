@@ -1,0 +1,31 @@
+{
+  "fairys": [
+    {
+      "fairy_with_user_id": 1636737,
+      "fairy_id": "26",
+      "passive_skill": 910106,
+      "fairy_lv": "100",
+      "fairy_exp": "9999000",
+      "quality_lv": 5,
+      "quality_exp": "3000"
+    }
+  ],
+  "user_exp": 0,
+  "mp": 0,
+  "ammo": 0,
+  "mre": 0,
+  "part": 0,
+  "core": 0,
+  "gem": 0,
+  "gun_id": [],
+  "item_ids": "516-100",
+  "equip_ids": [],
+  "furniture": [],
+  "gift": "",
+  "skin": [],
+  "bp_pay": 0,
+  "coins": "",
+  "fairy_ids": "26-0-100-5",
+  "commander_uniform": [],
+  "sangvis": []
+}
